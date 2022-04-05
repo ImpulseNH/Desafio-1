@@ -47,7 +47,7 @@ A continuación, tablas de coevaluación según estos criterios: [Criterios de c
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
 | Esteban González    | |+|+|+|
 | Carlos Núñez        |+| |+|+|
-| Priscilla Riffo     | | | | |
+| Priscilla Riffo     |+|+| |+|
 | Katherine Sepúlveda |+|+|+| |
 2. **Integración**
 
@@ -55,7 +55,7 @@ A continuación, tablas de coevaluación según estos criterios: [Criterios de c
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
 | Esteban González    | |+|+|+|
 | Carlos Núñez        |+| |+|+|
-| Priscilla Riffo     | | | | |
+| Priscilla Riffo     |+|+| |+|
 | Katherine Sepúlveda |+|+|+| |
 3. **Responsabilidad**
 
@@ -63,7 +63,7 @@ A continuación, tablas de coevaluación según estos criterios: [Criterios de c
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
 | Esteban González    | |+|+|+|
 | Carlos Núñez        |+| |+|+|
-| Priscilla Riffo     | | | | |
+| Priscilla Riffo     |+|+| |+|
 | Katherine Sepúlveda |+|+|+| |
 4. **Contribución**
 
@@ -71,7 +71,7 @@ A continuación, tablas de coevaluación según estos criterios: [Criterios de c
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
 | Esteban González    | |+|+|+|
 | Carlos Núñez        |+| |+|+|
-| Priscilla Riffo     | | | | |
+| Priscilla Riffo     |+|+| |+|
 | Katherine Sepúlveda |+|+|+| |
 5. **Resolución de conflictos**
 
@@ -79,5 +79,5 @@ A continuación, tablas de coevaluación según estos criterios: [Criterios de c
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
 | Esteban González    | |+|+|+|
 | Carlos Núñez        |+| |+|+|
-| Priscilla Riffo     | | | | |
+| Priscilla Riffo     |+|+| |+|
 | Katherine Sepúlveda |+|+|+| |

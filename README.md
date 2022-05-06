@@ -12,7 +12,7 @@ a
 b
 ## Cómo ejecutar el programa
 ***
-Para poder probar el código es necesario abrir como proyecto la carpeta ```Desafio 1``` en un compilador compatible con Python.
+Para poder probar el código es necesario abrir como proyecto la carpeta ```Desafio 3``` en un compilador compatible con Python.
 ## Video explicativo
 ***
 Para una mejor comprensión del problema y su resolución, se adjunta un video explicativo en el siguiente [link]().
@@ -23,32 +23,32 @@ A continuación, tablas de coevaluación según estos criterios: [Criterios de c
 
 |                     | Esteban González | Carlos Núñez | Priscilla Riffo | Katherine Sepúlveda |
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
-| Esteban González    | |+|+|+|
-| Carlos Núñez        |+| |+|+|
-| Priscilla Riffo     |+|+| |+|
-| Katherine Sepúlveda |+|+|+| |
+| Esteban González    | | | | |
+| Carlos Núñez        | | | | |
+| Priscilla Riffo     | | | | |
+| Katherine Sepúlveda | | | | |
 2. **Integración**
 
 |                     | Esteban González | Carlos Núñez | Priscilla Riffo | Katherine Sepúlveda |
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
-| Esteban González    | |+|+|+|
-| Carlos Núñez        |+| |+|+|
-| Priscilla Riffo     |+|+| |+|
-| Katherine Sepúlveda |+|+|+| |
+| Esteban González    | | | | |
+| Carlos Núñez        | | | | |
+| Priscilla Riffo     | | | | |
+| Katherine Sepúlveda | | | | |
 3. **Responsabilidad**
 
 |                     | Esteban González | Carlos Núñez | Priscilla Riffo | Katherine Sepúlveda |
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
-| Esteban González    | |+|+|+|
-| Carlos Núñez        |+| |+|+|
-| Priscilla Riffo     |+|+| |+|
-| Katherine Sepúlveda |+|+|+| |
+| Esteban González    | | | | |
+| Carlos Núñez        | | | | |
+| Priscilla Riffo     | | | | |
+| Katherine Sepúlveda | | | | |
 4. **Contribución**
 
 |                     | Esteban González | Carlos Núñez | Priscilla Riffo | Katherine Sepúlveda |
 | ------------------- | :--------------: | :----------: | :-------------: | :-----------------: |
-| Esteban González    | |+|+|+|
-| Carlos Núñez        |+| |+|+|
+| Esteban González    | | | | |
+| Carlos Núñez        | | | | |
 | Priscilla Riffo     |+|+| |+|
 | Katherine Sepúlveda |+|+|+| |
 5. **Resolución de conflictos**
